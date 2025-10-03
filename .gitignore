@@ -1,0 +1,7 @@
+**/**/**/*.out
+**/**/**/a.out.*
+**/**/**/.DS_Store
+**/**/**/.vscode
+**/**/**/.idea
+**/**/**/cmake-build-debug
+.DS_Store
